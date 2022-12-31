@@ -8,9 +8,9 @@ I used to do side projects in android {with the help of udacity} , .Net and Reac
 
 
 - 🌱 I’m currently learning Newest technologies
-- 👯 I’m looking to collaborate on .Net and React projects 
+- 👯 I’m looking to collaborate on .Net, Angular and React projects 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Embedded Software, React and .Net
+- 💬 Ask me about Embedded Software, React, Angular and .Net
 - 📫 How to reach me: eng.mohamedyoussif2011@gmail.com
 
 -->
